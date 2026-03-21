@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://sajtpro.rs/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/" />
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/o-nama.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/o-nama.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/about.html" />
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/kontakt.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/kontakt.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/contact.html" />
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/cenovnik.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/cenovnik.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/pricing.html" />
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/kako-radimo.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/kako-radimo.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/how-we-work.html" />
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/live-editor.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/live-editor.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/live-editor.html" />
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/panel.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/panel.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/panel.html" />
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/portfolio.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/portfolio.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/portfolio.html" />
+    <priority>0.7</priority>
+  </url>
+
+  <!-- City landing pages -->
+  <url>
+    <loc>https://sajtpro.rs/izrada-sajtova-beograd.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/izrada-sajtova-novi-sad.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/izrada-sajtova-nis.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/izrada-sajtova-kragujevac.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/izrada-sajtova-subotica.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://sajtpro.rs/blog/</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/blog/koliko-kosta-izrada-sajta.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/blog/zasto-vasoj-firmi-treba-sajt.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/blog/kako-poboljsati-seo.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- English versions -->
+  <url>
+    <loc>https://sajtpro.rs/en/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/" />
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/en/about.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/about.html" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/o-nama.html" />
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/en/contact.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/contact.html" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/kontakt.html" />
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/en/pricing.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/cenovnik.html" />
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/en/portfolio.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/portfolio.html" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/portfolio.html" />
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/en/how-we-work.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/how-we-work.html" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/kako-radimo.html" />
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/en/live-editor.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/live-editor.html" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/live-editor.html" />
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://sajtpro.rs/en/panel.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sajtpro.rs/en/panel.html" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://sajtpro.rs/panel.html" />
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
